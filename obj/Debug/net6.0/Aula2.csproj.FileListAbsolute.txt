@@ -1,0 +1,15 @@
+C:\Users\JoãoVictor\myApp\Aula2\src\bin\Debug\net6.0\Aula2.exe
+C:\Users\JoãoVictor\myApp\Aula2\src\bin\Debug\net6.0\Aula2.deps.json
+C:\Users\JoãoVictor\myApp\Aula2\src\bin\Debug\net6.0\Aula2.runtimeconfig.json
+C:\Users\JoãoVictor\myApp\Aula2\src\bin\Debug\net6.0\Aula2.dll
+C:\Users\JoãoVictor\myApp\Aula2\src\bin\Debug\net6.0\ref\Aula2.dll
+C:\Users\JoãoVictor\myApp\Aula2\src\bin\Debug\net6.0\Aula2.pdb
+C:\Users\JoãoVictor\myApp\Aula2\src\obj\Debug\net6.0\Aula2.csproj.AssemblyReference.cache
+C:\Users\JoãoVictor\myApp\Aula2\src\obj\Debug\net6.0\Aula2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JoãoVictor\myApp\Aula2\src\obj\Debug\net6.0\Aula2.AssemblyInfoInputs.cache
+C:\Users\JoãoVictor\myApp\Aula2\src\obj\Debug\net6.0\Aula2.AssemblyInfo.cs
+C:\Users\JoãoVictor\myApp\Aula2\src\obj\Debug\net6.0\Aula2.csproj.CoreCompileInputs.cache
+C:\Users\JoãoVictor\myApp\Aula2\src\obj\Debug\net6.0\Aula2.dll
+C:\Users\JoãoVictor\myApp\Aula2\src\obj\Debug\net6.0\ref\Aula2.dll
+C:\Users\JoãoVictor\myApp\Aula2\src\obj\Debug\net6.0\Aula2.pdb
+C:\Users\JoãoVictor\myApp\Aula2\src\obj\Debug\net6.0\Aula2.genruntimeconfig.cache
